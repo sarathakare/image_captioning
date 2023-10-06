@@ -13,5 +13,5 @@ Image captioning combines computer vision and natural language processing. The p
 
 ## Dataset
 - Dataset can be found [here](https://www.kaggle.com/datasets/adityajn105/flickr8k).
-- The don't contain any well-known people or locations, but depict a variety of scenes and situations.
+- The images don't contain any well-known people or locations, but depict a variety of scenes and situations.
 - Each image is associated with five different captions which provide clear descriptions of the salient entities and events.
